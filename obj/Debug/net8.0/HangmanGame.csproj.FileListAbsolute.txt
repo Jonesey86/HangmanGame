@@ -1,0 +1,4 @@
+C:\Users\ianro\Desktop\HangmanGame\obj\Debug\net8.0\HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianro\Desktop\HangmanGame\obj\Debug\net8.0\HangmanGame.AssemblyInfoInputs.cache
+C:\Users\ianro\Desktop\HangmanGame\obj\Debug\net8.0\HangmanGame.AssemblyInfo.cs
+C:\Users\ianro\Desktop\HangmanGame\obj\Debug\net8.0\HangmanGame.csproj.CoreCompileInputs.cache
