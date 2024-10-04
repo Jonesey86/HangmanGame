@@ -130,7 +130,7 @@ internal class Program
                 Console.Write(letter + " ");
             }
             //prompt user for input
-            Console.Write("\nGuess a letter:");
+            Console.Write("\nGuess a letter:"); 
             char letterGuessed = Console.ReadLine()[0];
             //check if letter have been used
             if(currentLettersGuessed.Contains(letterGuessed))
